@@ -10,6 +10,8 @@ namespace Codewars
     {
         static void Main(string[] args)
         {
+
+            Console.ReadKey();
         }
     }
 }
